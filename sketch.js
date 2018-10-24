@@ -1,6 +1,7 @@
 /*
  * Zul Hilmi
  * github.com/hilmizul
+ * github.com/sukzy (yeah it's me)
  * twitter.com/hilmi_zul
  * 22 Oktober 2018
  *
